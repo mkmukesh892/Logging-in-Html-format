@@ -1,0 +1,24 @@
+Sep 09, 2018 3:29:45 PM com.vogella.logger.test.UseLogger doSomeThingAndLog
+SEVERE: this is a serve log
+Sep 09, 2018 3:29:45 PM com.vogella.logger.test.UseLogger doSomeThingAndLog
+SEVERE: severe Log
+Sep 09, 2018 3:29:45 PM com.vogella.logger.test.UseLogger doSomeThingAndLog
+WARNING: warning Log
+Sep 09, 2018 3:29:45 PM com.vogella.logger.test.UseLogger doSomeThingAndLog
+INFO: Info Log
+Sep 09, 2018 3:29:45 PM com.vogella.logger.test.UseLogger doSomeThingAndLog
+SEVERE: severe log is happend
+Sep 09, 2018 3:29:45 PM com.vogella.logger.test.UseLogger doSomeThingAndLog
+WARNING: warning log is happend
+Sep 09, 2018 3:29:45 PM com.vogella.logger.test.UseLogger doSomeThingAndLog
+INFO: info log is happend
+Sep 09, 2018 3:29:45 PM com.vogella.logger.test.UseLogger doSomeThingAndLog
+CONFIG: config log is happend
+Sep 09, 2018 3:29:45 PM com.vogella.logger.test.UseLogger doSomeThingAndLog
+FINE: fine log is happend
+Sep 09, 2018 3:29:45 PM com.vogella.logger.test.UseLogger doSomeThingAndLog
+FINER: finer log is happend
+Sep 09, 2018 3:29:45 PM com.vogella.logger.test.UseLogger doSomeThingAndLog
+FINEST: finest log is happend
+Sep 09, 2018 3:29:45 PM com.vogella.logger.test.UseLogger doSomeThingAndLog
+ALL: all log is display
